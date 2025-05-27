@@ -1,6 +1,5 @@
 # calculadora.py
 calculadora em python
 
-#Como usar
-- voce ira digitar qual operação você quer utilizar (+,-,*,/). Logo apos ira digitar o numero que quer utilizar, num 1 e num2. Em seguida irá sair o resulatdo desta operação
-- Obs: esta calculadora roda em qualquer editor de texto
+#Explicaçaõ do meu codigo 
+- Por este ser um dos meus primeiros codigos, eu resolvi fazer algo simples mas funcional. Comecei mostrando as operações possiveis, deixando o ususario colocar qual operação deseja, em seguida inserir o numero que deseja. No final utilizei uma estrutura de decisão (if else) para fazer o calculo nescessario
